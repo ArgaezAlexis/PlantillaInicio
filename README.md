@@ -26,27 +26,19 @@ Tips de Linux para ser productivos
 https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
 
 
-**Este es formato BOLD.**
-_Este es cursivo_
-
-![](https://pbs.twimg.com/profile_images/674079751024197632/kPLUGjcE_400x400.jpg)
+**Este es BOLD.**
 
 
-OBJETIVO PONER EL LOGO DE ISC.
-
-![](......JPG)
+_Cursiva_
 
 
-video de youtube
-7AiAYxrAJKw
+![](https://d2skuhm0vrry40.cloudfront.net/2018/articles/2018-06-13-16-31/NintendoSwitch_SuperSmashBrosUltimate_CharacterArt_63.jpg/EG11/resize/256x-1/quality/65/format/jpg)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7AiAYxrAJKw/0.jpg)](https://www.youtube.com/watch?v=7AiAYxrAJKw)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tu9xBdk9fgA/0.jpg)](https://www.youtube.com/watch?v=Tu9xBdk9fgA)
 
 
-# CÓDIGO FUENTE
-```
-.global _start
+# Codigo fuente
+```.global _start
 _start:
 MOV R7, #4
 MOV R0, #1
